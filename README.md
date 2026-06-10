@@ -28,11 +28,11 @@ This project addresses that challenge by:
 
 ## Project Objectives
 
-✔ Perform large-scale text preprocessing  
-✔ Generate contextual text embeddings using Transformers  
-✔ Discover customer topics using BERTopic  
-✔ Visualize topic patterns and relationships  
-✔ Build predictive models using extracted features  
+ Perform large-scale text preprocessing  
+ Generate contextual text embeddings using Transformers  
+ Discover customer topics using BERTopic  
+ Visualize topic patterns and relationships  
+ Build predictive models using extracted features  
 
 ---
 
